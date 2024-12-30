@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://i.ebayimg.com/images/g/le8AAOSwpEBkbRiS/s-l400.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://img.craiyon.com/2024-12-30/61-Jofz2QLGmErDfesciZw.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://i.ebayimg.com/images/g/le8AAOSwpEBkbRiS/s-l400.jpg">
   <img alt="Shows a silly goose">
 </picture>
 
