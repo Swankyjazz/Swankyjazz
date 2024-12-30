@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.craiyon.com/image/BCO_J9i2SgSP44ofzT8OmQ">
-  <source media="(prefers-color-scheme: light)" srcset="https://www.craiyon.com/image/rvCABCYwTiqVu9eUVnTQrg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.craiyon.com/2024-12-30/61-Jofz2QLGmErDfesciZw.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://media.craiyon.com/2024-09-22/e_mck2Q8SiScmG4pPdeqsA.webp">
   <img alt="Shows a silly goose">
 </picture>
 
