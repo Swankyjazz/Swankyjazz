@@ -32,6 +32,7 @@ Hello! I'm Swankyjazz. New to game design and determined to make something great
 
   
 </details>
+
 ---
 > Anything and everything in this world can be taught to those who have the desire to learn.
 
