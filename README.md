@@ -9,7 +9,7 @@
 ```mermaid
 mindmap
   root((Developing Game))
-    id))Programming((
+    id)Programming(
       Learning Godot 4
         Online Tutorials
         Forums/ChatGPT Help
@@ -21,14 +21,14 @@ mindmap
         Develop more complex games
         Implement more<br/>challenege game mechanicsl
       Design Current Game Idea
-    Marketing
+    id)Marketing(
       Advertise on Discord
       List on Steam
       Post online
-    Team
+    id)Team(
       Discord with friends
       ChatGPT
-    Brainstorming new concepts
+    id)Brainstorming new concepts(
 ``` 
 
 
