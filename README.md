@@ -9,7 +9,7 @@
 ```mermaid
 mindmap
   root((Developing Game))
-    Programming
+    id))Programming((
       Learning Godot 4
         Online Tutorials
         Forums/ChatGPT Help
