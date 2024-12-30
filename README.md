@@ -11,6 +11,7 @@ mindmap
   root((Developing Game))
     id)Programming(
       Learning Godot 4
+      ::icon(fas fa-laptop-code)
         Online Tutorials
         Forums/ChatGPT Help
       Build smaller<br/>procjets first
