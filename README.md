@@ -10,8 +10,7 @@
 mindmap
   root((Developing Game))
     id)Programming(
-      Learning Godot 4
-      ::icon(fas fa-laptop-code)
+      ::icon(fas fa-laptop-code)Learning Godot 4
         Online Tutorials
         Forums/ChatGPT Help
       Build smaller<br/>procjets first
