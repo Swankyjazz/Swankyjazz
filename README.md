@@ -4,9 +4,37 @@
   <img alt="Shows a silly goose">
 </picture>
 
+## Game Development Roadmap
+
+```mermaid
+mindmap
+  root((Developing Game))
+    Programming
+      Learning Godot 4
+        Online Tutorials
+        Forums/ChatGPT Help
+      Build smaller<br/>procjets first
+        Youtube full game tutorials
+        Understand Concepts
+        Assess Theory<br/>and Practical
+      Create Medium Project
+        Develop more complex games
+        Implement more<br/>challenege game mechanicsl
+      Design Current Game Idea
+    Marketing
+      Advertise on Discord
+      List on Steam
+      Post online
+    Team
+      Discord with friends
+      ChatGPT
+    Brainstorming new concepts
+``` 
+
+
 ## About me
 
-Hello! I'm Swankyjazz. New to game design and determined to make something great in Godot.
+Hello! I'm Swankyjazz. New to game design and determined to make something great in Godot. I'm currently going for my Masters in Electrical Engineering and I work for a private energy firm.
 
 <details>
 
@@ -35,9 +63,7 @@ Hello! I'm Swankyjazz. New to game design and determined to make something great
 
 ---
 > Anything and everything in this world can be taught to those who have the desire to learn.
-
-
-
+ 
 <!--
 **Swankyjazz/Swankyjazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
