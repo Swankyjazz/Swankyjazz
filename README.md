@@ -20,8 +20,22 @@ Hello! I'm Swankyjazz. New to game design and determined to make something great
 
 </details>
 
+<details>
+
+<summary> To Do List </summary>
+
+| Steps | Actions                       | Progress    |
+|-----:|--------------------------------|-------------|
+|     1| Learn Godot 4                  | In progress |
+|     2| Create small game projects     | Not Started |
+|     3| Create game idea I have        | Not Started |
+
+  
+</details>
 ---
 > Anything and everything in this world can be taught to those who have the desire to learn.
+
+
 
 <!--
 **Swankyjazz/Swankyjazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
