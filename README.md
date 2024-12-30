@@ -4,6 +4,17 @@
   <img alt="Shows a silly goose">
 </picture>
 
+## About me
+
+Hello! I'm Swankyjazz. New to game design and determined to make something great in Godot.
+
+| Rank | Favorite Foods   |
+|-----:|------------------|
+|     1| Italian          |
+|     2| More Italian     |
+|     3| Give me the pasta|
+
+
 <!--
 **Swankyjazz/Swankyjazz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
